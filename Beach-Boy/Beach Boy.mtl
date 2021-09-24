@@ -1,0 +1,85 @@
+# Blender MTL File: 'Beach Boy.blend'
+# Material Count: 6
+
+newmtl Accessory
+Ns 179.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Accessory (1).png
+map_Kd Accessory (2).png
+map_Ke Accessory (2).png
+map_d Accessory (2).png
+
+newmtl Body
+Ns 179.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Body (1).png
+map_Kd Body (2).png
+map_Ke Body (2).png
+map_d Body (2).png
+
+newmtl Bottum
+Ns 179.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Bottum (1).png
+map_Kd Bottum (2).png
+map_Ke Bottum (2).png
+map_d Bottum (2).png
+
+newmtl Hair
+Ns 179.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Hair (2).png
+map_Ns Hair (1).png
+map_d Hair (2).png
+
+newmtl Hat
+Ns 179.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Hat (1).png
+map_Kd Hat (2).png
+map_Ke Hat (2).png
+map_d Hat (2).png
+
+newmtl Shoe
+Ns 179.999996
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Shoe (1).png
+map_Kd Shoe (2).png
+map_Ke Shoe (2).png
+map_d Shoe (2).png
