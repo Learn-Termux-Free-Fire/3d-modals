@@ -6,5 +6,5 @@ This project is licensed under the terms of the MIT license.
 
 Clone this repository :
 ```
-https://github.com/Learn-Termux-Free-Fire/3d-modals.git
+git clone https://github.com/Learn-Termux-Free-Fire/3d-modals.git
 ```
