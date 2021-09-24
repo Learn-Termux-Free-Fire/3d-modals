@@ -1,0 +1,92 @@
+# Blender MTL File: 'New 5.blend'
+# Material Count: 7
+
+newmtl Material.001
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Top_Cos_Yakuza_N.png
+map_Kd Female_Top_Cos_Yakuza_C.png
+map_Ks Female_Top_Cos_Yakuza_M.png
+
+newmtl Material.007
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Bottom_Cos_Yakuza_N.png
+map_Kd Female_Bottom_Cos_Yakuza_C.png
+map_Ks Female_Bottom_Cos_Yakuza_M.png
+
+newmtl Material.008
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd female_hair_cos_BJD_d.png
+map_Ks female_hair_cos_BJD_s.png
+
+newmtl Material.009
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_head_sc_KpopSinger_n.png
+map_Kd Female_Head_Sc_KpopSinger_D_NMM_Cutscene.png
+map_Ks female_head_sc_KpopSinger_s.png
+
+newmtl Material.010
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Shoe_Cos_Yakuza_N.png
+map_Kd Female_Shoe_Cos_Yakuza_C.png
+map_Ks Female_Shoe_Cos_Yakuza_M.png
+
+newmtl Material.011
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_Newbody_n.png
+map_Kd Female_Body_Cos_Angeldevil_D.png
+map_Ks female_Newbody_s.png
+
+newmtl Material.012
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Hat_Cos_Yakuza_N.png
+map_Kd Female_Hat_Cos_Yakuza_C.png
+map_Ks Female_Hat_Cos_Yakuza_M.png

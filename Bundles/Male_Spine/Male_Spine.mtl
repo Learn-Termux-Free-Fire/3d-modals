@@ -1,0 +1,71 @@
+# Blender MTL File: 'Male_Spine.blend'
+# Material Count: 5
+
+newmtl male_accessory_cos_Spine
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_accessory_cos_spine_n.png
+map_Kd male_accessory_cos_spine_orange_d.png
+map_Ks male_accessory_cos_spine_s.png
+map_d male_accessory_cos_spine_orange_d.png
+
+newmtl male_bottom_cos_Spine
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_bottom_cos_spine_n.png
+map_Kd male_bottom_cos_spine_orange_d.png
+map_Ks male_bottom_cos_spine_s.png
+map_d male_bottom_cos_spine_orange_d.png
+
+newmtl male_hair_cos_Spine
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_hair_cos_spine_orange_d.png
+map_Ks female_hair_cos_spine_s.png
+map_d male_hair_cos_spine_orange_d.png
+
+newmtl male_shoe_cos_Spine
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_shoe_cos_spine_n.png
+map_Kd male_shoe_cos_spine_orange_d.png
+map_Ks male_shoe_cos_spine_s.png
+map_d male_shoe_cos_spine_orange_d.png
+
+newmtl male_top_cos_Spine
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_top_cos_spine_n.png
+map_Kd male_top_cos_spine_orange_d.png
+map_Ks male_top_cos_spine_s.png
+map_d male_top_cos_spine_orange_d.png

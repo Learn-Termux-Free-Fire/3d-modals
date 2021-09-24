@@ -1,0 +1,99 @@
+# Blender MTL File: 'New 04.blend'
+# Material Count: 7
+
+newmtl Female_Body_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_Newbody_n.png
+map_Kd Female_Body_Cos_Warringstates_D.png
+map_Ks female_Newbody_s.png
+map_d Female_Body_Cos_Warringstates_D.png
+
+newmtl Female_Bottom_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Bottom_Cos_Warringstates_N.png
+map_Kd Female_Bottom_Cos_Warringstates_D.png
+map_Ks Female_Bottom_Cos_Warringstates_S.png
+map_d Female_Bottom_Cos_Warringstates_D.png
+
+newmtl Female_Hair_Cos_Warringstates
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd female_hair_cos_BJD_d.png
+map_Ks female_hair_cos_BJD_s.png
+map_d female_hair_cos_BJD_d.png
+
+newmtl Female_Hat_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Hat_Cos_Warringstates_N.png
+map_Kd Female_Hat_Cos_Warringstates_D.png
+map_Ks Female_Hat_Cos_Warringstates_S.png
+map_d Female_Hat_Cos_Warringstates_D.png
+
+newmtl Female_Shoe_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Shoe_Cos_Warringstates_N.png
+map_Kd Female_Shoe_Cos_Warringstates_D.png
+map_Ks Female_Shoe_Cos_Warringstates_S.png
+map_d Female_Shoe_Cos_Warringstates_D.png
+
+newmtl Female_Top_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Top_Cos_Warringstates_N.png
+map_Kd Female_Top_Cos_Warringstates_D.png
+map_Ks Female_Top_Cos_Warringstates_S.png
+map_d Female_Top_Cos_Warringstates_D.png
+
+newmtl female_sc_richgirl_head_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_sc_richgirl_head_001_n.png
+map_Kd female_sc_richgirl_head_001_d.png
+map_Ks female_sc_richgirl_head_001_s.png
+map_d female_sc_richgirl_head_001_d.png

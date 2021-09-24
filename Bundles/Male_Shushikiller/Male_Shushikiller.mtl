@@ -1,0 +1,112 @@
+# Blender MTL File: 'Male_Shushikiller.blend'
+# Material Count: 8
+
+newmtl Body
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_newbody_cos_sushikiller_N.png
+map_Kd male_newbody_cos_sushikiller_D.png
+map_Ks male_newbody_cos_sushikiller_s.png
+map_d male_newbody_cos_sushikiller_D.png
+
+newmtl Bottom
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_bottom_cos_sushikiller_N.png
+map_Kd male_bottom_cos_sushikiller_C.png
+map_Ks male_bottom_cos_sushikiller_M.png
+map_d male_bottom_cos_sushikiller_C.png
+
+newmtl Bottom_Body
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_body_N.png
+map_Kd male_body_D.png
+map_Ks male_body_S.png
+map_d male_body_D.png
+
+newmtl Face
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_head_SC_Samurai_n.png
+map_Kd male_head_SC_Samurai_d.png
+map_Ks male_head_SC_Samurai_s.png
+map_d male_head_SC_Samurai_d.png
+
+newmtl Hair
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_hair_cos_sushikiller_d.png
+map_Ks male_hair_cos_sushikiller_s.png
+
+newmtl Hair_accessory
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_accessory_cos_sushikiller_N.png
+map_Kd male_accessory_cos_sushikiller_C.png
+map_Ks male_accessory_cos_sushikiller_S.png
+map_d male_accessory_cos_sushikiller_C.png
+
+newmtl Shoes
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_shoe_cos_sushikiller_N.png
+map_Kd male_shoe_cos_sushikiller_C.png
+map_d male_shoe_cos_sushikiller_C.png
+refl male_shoe_cos_sushikiller_M.png
+
+newmtl Top
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_top_cos_sushikiller_N.png
+map_Kd male_top_cos_sushikiller_C.png
+map_Ks male_top_cos_sushikiller_M.png
+map_d male_top_cos_sushikiller_C.png

@@ -1,0 +1,97 @@
+# Blender MTL File: 'Male_Fire_Faim.blend'
+# Material Count: 7
+
+newmtl male_body_cos_Faim3
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_body_thaiboxer_n.png
+map_Kd male_body_cos_faim2_d.png
+map_Ks male_body_S.png
+map_d male_body_cos_faim2_d.png
+
+newmtl male_bottom_cos_Faim2_Waiting
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_bottom_cos_faim2_n.png
+map_Kd male_bottom_cos_faim2_d.png
+map_Ks male_bottom_cos_faim2_s.png
+map_d male_bottom_cos_faim2_d.png
+
+newmtl male_cuoff_cos_Faim3_Waiting
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_cutoff_cos_faim2_d.png
+map_d male_cutoff_cos_faim2_d.png
+
+newmtl male_hair_cos_Faim2
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_hair_cos_faim2_d.png
+map_Ks female_hair_cos_fire_s.png
+map_d male_hair_cos_faim2_d.png
+
+newmtl male_head_cos_Faim2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_head_SC_Samurai_n.png
+map_Kd male_head_SC_Samurai_d.png
+map_Ks male_head_SC_Samurai_s.png
+map_d male_head_SC_Samurai_d.png
+
+newmtl male_shoe_cos_Faim2_Waiting
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_shoe_cos_faim2_n.png
+map_Kd male_shoe_cos_faim2_d.png
+map_Ks male_shoe_cos_faim2_s.png
+map_d male_shoe_cos_faim2_d.png
+
+newmtl male_top_cos_Faim2_Waiting
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_top_cos_faim2_n.png
+map_Kd male_top_cos_faim2_d.png
+map_Ks male_top_cos_faim2_s.png
+map_d male_top_cos_faim2_d.png

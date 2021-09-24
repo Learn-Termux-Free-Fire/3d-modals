@@ -1,0 +1,50 @@
+# Blender MTL File: 'Male_War1.blend'
+# Material Count: 4
+
+newmtl Cutscene_War2_Death2_029
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_bottom_cos_war_d.png
+map_d male_bottom_cos_war_d.png
+
+newmtl Cutscene_War2_Death2_030
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_shoe_cos_war_d.png
+map_d male_shoe_cos_war_d.png
+
+newmtl Cutscene_War2_Death2_031
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_hat_cos_war_d.png
+map_d male_hat_cos_war_d.png
+
+newmtl Cutscene_War2_Death2_032
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_top_cos_war_d.png
+map_d male_top_cos_war_d.png

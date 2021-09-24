@@ -1,0 +1,117 @@
+# Blender MTL File: 'New 01.blend'
+# Material Count: 9
+
+newmtl Female_Body_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_Newbody_n.png
+map_Kd Female_Body_Cos_Scarecrow_D.png
+map_Ks female_Newbody_s.png
+map_d Female_Body_Cos_Scarecrow_D.png
+
+newmtl Female_Bottom_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Bottom_Cos_Scarecrow_N.png
+map_Kd Female_Bottom_Cos_Scarecrow_C.png
+map_d Female_Bottom_Cos_Scarecrow_C.png
+
+newmtl Female_Cutoff_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Female_Top_Cos_Scarecrow_AD.png
+map_d Female_Top_Cos_Scarecrow_AD.png
+
+newmtl Female_Hair_Cos_Scarecrow
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Female_Hair_Cos_Scarecrow_D.png
+map_Ks Female_Hair_Cos_Scarecrow_S.png
+map_d Female_Hair_Cos_Scarecrow_D.png
+
+newmtl Female_Hat_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Hat_Cos_Scarecrow_N.png
+map_Kd Female_Hat_Cos_Scarecrow_C.png
+map_d Female_Hat_Cos_Scarecrow_C.png
+
+newmtl Female_Head_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Head_Sc_PartyGirl_N.png
+map_Kd Female_Head_Sc_PartyGirl_D_NMM_Cutscene.png
+map_Ks Female_Head_Sc_PartyGirl_S.png
+map_d Female_Head_Sc_PartyGirl_D_NMM_Cutscene.png
+
+newmtl Female_Shoe_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Shoe_Cos_Scarecrow_N.png
+map_Kd Female_Shoe_Cos_Scarecrow_C.png
+map_d Female_Shoe_Cos_Scarecrow_C.png
+
+newmtl Female_Top_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Female_Top_Cos_Scarecrow_N.png
+map_Kd Female_Top_Cos_Scarecrow_C.png
+map_d Female_Top_Cos_Scarecrow_C.png
+
+newmtl VFX_Zcom_Fire005
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.613083 0.198529
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3

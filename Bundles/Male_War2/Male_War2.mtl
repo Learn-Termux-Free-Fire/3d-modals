@@ -1,0 +1,95 @@
+# Blender MTL File: 'Male_War2.blend'
+# Material Count: 7
+
+newmtl Male_accessory_cos_War2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_accessory_cos_war2_N.png
+map_Kd male_accessory_cos_war2_C.png
+map_d male_accessory_cos_war2_C.png
+
+newmtl Male_body_cos_War2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_body_N.png
+map_Kd male_body_cos_war2_d.png
+map_Ks male_body_S.png
+map_d male_body_cos_war2_d.png
+
+newmtl Male_bottom_cos_War2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_bottom_cos_war2_N.png
+map_Kd male_bottom_cos_war2_C.png
+map_d male_bottom_cos_war2_C.png
+
+newmtl Male_hair_cos_War2
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_hair_cos_war2_d.png
+map_Ks male_hair_cos_war2_s.png
+map_d male_hair_cos_war2_d.png
+
+newmtl Male_head_cos_War2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_head_sc_foodieboy_n.png
+map_Kd male_head_sc_foodieboy_d.png
+map_Ks male_head_sc_foodieboy_s.png
+map_d male_head_sc_foodieboy_d.png
+
+newmtl Male_shoe_cos_War2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_shoe_cos_war2_N.png
+map_Kd male_shoe_cos_war2_C.png
+map_d male_shoe_cos_war2_C.png
+
+newmtl Male_top_cos_War2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_top_cos_war2_N.png
+map_Kd male_top_cos_war2_C.png
+map_d male_top_cos_war2_C.png

@@ -1,0 +1,92 @@
+# Blender MTL File: 'New 7.blend'
+# Material Count: 7
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Female_Accessory_Cos_Gangsterrap_N.png
+map_Kd Female_Accessory_Cos_Gangsterrap_Gold_D.png
+map_Ks Female_Accessory_Cos_Gangsterrap_Gold_S.png
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Female_Hair_Cos_Gangsterrap_Gold_D.png
+map_Ks Female_Hair_Cos_Gangsterrap_S.png
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump female_sc_racergirl_head_001_n.png
+map_Kd female_sc_racergirl_head_001_d.png
+map_Ks female_sc_racergirl_head_001_s.png
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump female_Newbody_n.png
+map_Kd Female_Body_Cos_Gangsterrap_Gold_D.png
+map_Ks female_Newbody_s.png
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Female_Shoe_Cos_Gangsterrap_N.png
+map_Kd Female_Shoe_Cos_Gangsterrap_Gold_D.png
+map_Ks Female_Shoe_Cos_Gangsterrap_Gold_S.png
+
+newmtl Material.006
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Female_Bottom_Cos_Gangsterrap_N.png
+map_Kd Female_Bottom_Cos_Gangsterrap_Gold_D.png
+map_Ks Female_Bottom_Cos_Gangsterrap_Gold_S.png
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Female_Top_Cos_Gangsterrap_N.png
+map_Kd Female_Top_Cos_Gangsterrap_Gold_D.png
+map_Ks Female_Top_Cos_Gangsterrap_Gold_S.png

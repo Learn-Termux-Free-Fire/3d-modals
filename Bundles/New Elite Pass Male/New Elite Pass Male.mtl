@@ -1,0 +1,109 @@
+# Blender MTL File: 'Elite Pass.blend'
+# Material Count: 8
+
+newmtl Male_Accessory_Cos_Pursuer
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Accessory_Cos_Pursuer_N.png
+map_Kd Male_Accessory_Cos_Pursuer_C.png
+map_d Male_Accessory_Cos_Pursuer_C.png
+
+newmtl Male_Accessory_Cos_Pursuer_Glass
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Accessory_Cos_Pursuer_N.png
+map_Kd Male_Accessory_Cos_Pursuer_D.png
+map_Ks Male_Accessory_Cos_Pursuer_S.png
+map_d Male_Accessory_Cos_Pursuer_D.png
+
+newmtl Male_Body_Cos_Pursuer
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_body_N.png
+map_Kd male_body_D.png
+map_Ks male_body_S.png
+map_d male_body_D.png
+
+newmtl Male_Bottom_Cos_Pursuer
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Bottom_Cos_Pursuer_N.png
+map_Kd Male_Bottom_Cos_Pursuer_C.png
+map_d Male_Bottom_Cos_Pursuer_C.png
+
+newmtl Male_Hair_Cos_Pursuer
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Male_Hair_Cos_Pursuer_D.png
+map_Ks Male_Hair_Cos_Pursuer_S.png
+map_d Male_Hair_Cos_Pursuer_D.png
+
+newmtl Male_Head_Cos_Pursuer
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_head_sc_Demolitionist_n.png
+map_Kd male_head_sc_Demolitionist_d.png
+map_Ks male_head_sc_Demolitionist_s.png
+map_d male_head_sc_Demolitionist_d.png
+
+newmtl Male_Shoe_Cos_Pursuer
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Shoe_Cos_Pursuer_N.png
+map_Kd Male_Shoe_Cos_Pursuer_C.png
+map_d Male_Shoe_Cos_Pursuer_C.png
+
+newmtl Male_Top_Cos_Pursuer
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Top_Cos_Pursuer_N.png
+map_Kd Male_Top_Cos_Pursuer_C.png
+map_d Male_Top_Cos_Pursuer_C.png

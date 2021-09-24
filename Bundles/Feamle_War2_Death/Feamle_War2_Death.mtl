@@ -1,0 +1,109 @@
+# Blender MTL File: 'Feamle_War2_Death.blend'
+# Material Count: 8
+
+newmtl Female_body_cos_Death2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_Newbody_n.png
+map_Kd female_body_cos_death2_d.png
+map_Ks female_Newbody_s.png
+map_d female_body_cos_death2_d.png
+
+newmtl Female_bottom_cos_Death2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_bottom_cos_death2_N.png
+map_Kd female_bottom_cos_death2_C.png
+map_d female_bottom_cos_death2_C.png
+
+newmtl Female_glass_cos_Death2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_bottom_cos_death2_N.png
+map_Kd female_bottom_cos_death2_d.png
+map_Ks female_bottom_cos_death2_s.png
+map_d female_bottom_cos_death2_d.png
+
+newmtl Female_hair_cos_Death2
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd female_hair_cos_death2_d.png
+map_Ks female_hair_cos_death2_s.png
+map_d female_hair_cos_death2_d.png
+
+newmtl Female_hat_cos_Death2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_hat_cos_death2_N.png
+map_Kd female_hat_cos_death2_C.png
+map_d female_hat_cos_death2_C.png
+
+newmtl Female_head_cos_Death2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_head_sc_Agent_n.png
+map_Kd female_head_sc_Agent_d.png
+map_Ks female_head_sc_Agent_s.png
+map_d female_head_sc_Agent_d.png
+
+newmtl Female_shoe_cos_Death2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_shoe_cos_death2_N.png
+map_Kd female_shoe_cos_death2_C.png
+map_d female_shoe_cos_death2_C.png
+
+newmtl Female_top_cos_Death2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_top_cos_death2_N.png
+map_Kd female_top_cos_death2_C.png
+map_d female_top_cos_death2_C.png

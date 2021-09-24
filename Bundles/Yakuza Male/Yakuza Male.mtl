@@ -1,0 +1,92 @@
+# Blender MTL File: 'New 5.blend'
+# Material Count: 7
+
+newmtl Material.002
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Bottom_Cos_Yakuza_N.png
+map_Kd Male_Bottom_Cos_Yakuza_C.png
+map_Ks Male_Bottom_Cos_Yakuza_M.png
+
+newmtl Material.003
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd Male_Hair_Cos_Yakuza_D.png
+map_Ks Male_Hair_Cos_Yakuza_S.png
+
+newmtl Material.004
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_head_SC_Samurai_n.png
+map_Kd Male_Head_Sc_Samurai_D_NMM_Cutscene.png
+map_Ks male_head_SC_Samurai_s.png
+
+newmtl Material.005
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Shoe_Cos_Yakuza_N.png
+map_Kd Male_Shoe_Cos_Yakuza_C.png
+map_Ks Male_Shoe_Cos_Yakuza_M.png
+
+newmtl Material.006
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Top_Cos_Yakuza_N.png
+map_Kd Male_Top_Cos_Yakuza_C.png
+map_Ks Male_Top_Cos_Yakuza_M.png
+
+newmtl Material.013
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Hat_Cos_Yakuza_N.png
+map_Kd Male_Hat_Cos_Yakuza_C.png
+map_Ks Male_Hat_Cos_Yakuza_M.png
+
+newmtl Material.014
+Ns 225.000000
+Ka 0.500000 0.500000 0.500000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_body_N.png
+map_Kd male_body_D.png
+map_Ks male_body_S.png

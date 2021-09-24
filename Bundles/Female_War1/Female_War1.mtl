@@ -1,0 +1,14 @@
+# Blender MTL File: 'Female_War.blend'
+# Material Count: 1
+
+newmtl Cutscene_War2_Death2_022
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.220588 0.220588
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd female_bottom_cos_death_d.png
+map_d female_bottom_cos_death_d.png

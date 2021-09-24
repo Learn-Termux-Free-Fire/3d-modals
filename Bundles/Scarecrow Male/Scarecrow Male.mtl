@@ -1,0 +1,105 @@
+# Blender MTL File: 'New 01.blend'
+# Material Count: 8
+
+newmtl Male_Accessory_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Accessory_Cos_Scarecrow_N.png
+map_Kd Male_Accessory_Cos_Scarecrow_C.png
+map_d Male_Accessory_Cos_Scarecrow_C.png
+
+newmtl Male_Body_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_body_N.png
+map_Kd male_body_D.png
+map_Ks male_body_S.png
+map_d male_body_D.png
+
+newmtl Male_Bottom_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Bottom_Cos_Scarecrow_N.png
+map_Kd Male_Bottom_Cos_Scarecrow_C.png
+map_d Male_Bottom_Cos_Scarecrow_C.png
+
+newmtl Male_Hat_Cos_Scarecrow
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Hair_Cos_Scarecrow_N.png
+map_Kd Male_Hair_Cos_Scarecrow_C.png
+map_d Male_Hair_Cos_Scarecrow_C.png
+
+newmtl Male_Head_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Head_Sc_Delivery_N.png
+map_Kd Male_Head_Sc_Delivery_D.png
+map_Ks Male_Head_Sc_Delivery_S.png
+map_d Male_Head_Sc_Delivery_D.png
+
+newmtl Male_Shoe_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Shoe_Cos_Scarecrow_N.png
+map_Kd Male_Shoe_Cos_Scarecrow_C.png
+map_d Male_Shoe_Cos_Scarecrow_C.png
+
+newmtl Male_Top_Cos_Scarecrow
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Top_Cos_Scarecrow_N.png
+map_Kd Male_Top_Cos_Scarecrow_C.png
+map_d Male_Top_Cos_Scarecrow_C.png
+
+newmtl VFX_Zcom_Fire006
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.613083 0.198529
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3

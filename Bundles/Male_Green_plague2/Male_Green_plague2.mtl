@@ -1,0 +1,99 @@
+# Blender MTL File: 'Male_Green_plague2.blend'
+# Material Count: 7
+
+newmtl male_accessory_cos_Plague2_Waiting
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_accessory_cos_plague2_n.png
+map_Kd male_accessory_cos_plague2_d.png
+map_Ks male_accessory_cos_plague2_s.png
+map_d male_accessory_cos_plague2_d.png
+
+newmtl male_body_cos_Plague2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_body_N.png
+map_Kd male_body_D.png
+map_Ks male_body_S.png
+map_d male_body_D.png
+
+newmtl male_bottom_cos_Plague2_Waiting
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_bottom_cos_plague2_n.png
+map_Kd male_bottom_cos_plague2_d.png
+map_Ks male_bottom_cos_plague2_s.png
+map_d male_bottom_cos_plague2_d.png
+
+newmtl male_face_cos_Plague2
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_head_sc_foodieboy_n.png
+map_Kd male_head_sc_foodieboy_d.png
+map_Ks male_head_sc_foodieboy_s.png
+map_d male_head_sc_foodieboy_d.png
+
+newmtl male_hair_cos_Plague2
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_sc_foodieboy_hair_001_d.png
+map_Ks male_sc_foodieboy_hair_001_s.png
+map_d male_sc_foodieboy_hair_001_d.png
+
+newmtl male_shoe_cos_Plague2_Waiting
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_shoe_cos_plague2_n.png
+map_Kd male_shoe_cos_plague2_d.png
+map_Ks male_shoe_cos_plague2_s.png
+map_d male_shoe_cos_plague2_d.png
+
+newmtl male_top_cos_Plague2_Waiting
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_top_cos_plague2_n.png
+map_Kd male_top_cos_plague2_d.png
+map_Ks male_top_cos_plague2_s.png
+map_d male_top_cos_plague2_d.png

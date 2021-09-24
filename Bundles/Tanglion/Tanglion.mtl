@@ -1,0 +1,96 @@
+# Blender MTL File: 'New 02.blend'
+# Material Count: 7
+
+newmtl Default-Material
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl Male_Head_Cos_Shinobi_Purple
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_head_sc_StreamerGuy_n.png
+map_Kd male_head_sc_StreamerGuy_d.png
+map_Ks male_head_sc_StreamerGuy_s.png
+map_d male_head_sc_StreamerGuy_d.png
+
+newmtl Male_accessory_cos_Tanglion
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_accessory_cos_tanglion_n.png
+map_Kd male_accessory_cos_tanglion_d (1).png
+map_Ks male_accessory_cos_tanglion_s.png
+map_d male_accessory_cos_tanglion_d (1).png
+
+newmtl Male_buttom_cos_Tanglion
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_bottom_cos_tanglion_n.png
+map_Kd male_bottom_cos_tanglion_d.png
+map_Ks male_bottom_cos_tanglion_s.png
+map_d male_bottom_cos_tanglion_d.png
+
+newmtl Male_hair_cos_Tanglion
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_hair_cos_tanglion_n.png
+map_Kd male_hair_cos_tanglion_d.png
+map_Ks male_hair_cos_tanglion_s.png
+map_d male_hair_cos_tanglion_d.png
+
+newmtl Male_shose_cos_Tanglion
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_shoe_cos_tanglion_n.png
+map_Kd male_shoe_cos_tanglion_d.png
+map_Ks male_shoe_cos_tanglion_s.png
+map_d male_shoe_cos_tanglion_d.png
+
+newmtl Male_top_cos_Tanglion
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_top_cos_tanglion_n.png
+map_Kd male_top_cos_tanglion_d.png
+map_Ks male_top_cos_tanglion_s.png
+map_d male_top_cos_tanglion_d.png

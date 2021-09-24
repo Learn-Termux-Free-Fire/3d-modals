@@ -1,0 +1,95 @@
+# Blender MTL File: 'Female_Spine.blend'
+# Material Count: 7
+
+newmtl VFX_Spine_10
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl female_accessory_glass_cos_Spine
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_accessory_cos_spine_n.png
+map_Kd female_accessory_cos_spine_orange_d.png
+map_Ks female_accessory_cos_spine_s.png
+map_d female_accessory_cos_spine_orange_d.png
+
+newmtl female_bottom_cos_Spine
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_bottom_cos_spine_n.png
+map_Kd female_bottom_cos_spine_orange_d.png
+map_Ks female_bottom_cos_spine_s.png
+map_d female_bottom_cos_spine_orange_d.png
+
+newmtl female_hair_cos_Spine
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd female_hair_cos_spine_orange_d.png
+map_Ks female_hair_cos_spine_s.png
+map_d female_hair_cos_spine_orange_d.png
+
+newmtl female_head_cos_Spine
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_sc_richgirl_head_001_n.png
+map_Kd female_sc_richgirl_head_001_d.png
+map_Ks female_sc_richgirl_head_001_s.png
+map_d female_sc_richgirl_head_001_d.png
+
+newmtl female_shoe_cos_Spine
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_shoe_cos_spine_n.png
+map_Kd female_shoe_cos_spine_orange_d.png
+map_Ks female_shoe_cos_spine_s.png
+map_d female_shoe_cos_spine_orange_d.png
+
+newmtl female_top_cos_Spine
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump female_top_cos_spine_n.png
+map_Kd female_top_cos_spine_orange_d.png
+map_Ks female_top_cos_spine_s.png
+map_d female_top_cos_spine_orange_d.png

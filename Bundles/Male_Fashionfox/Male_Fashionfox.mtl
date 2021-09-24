@@ -1,0 +1,108 @@
+# Blender MTL File: 'Male_Fashionfox.blend'
+# Material Count: 8
+
+newmtl male_body_cos_Fashionfox
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_body_N.png
+map_Kd male_body_D.png
+map_Ks male_body_S.png
+map_d male_body_D.png
+
+newmtl male_bottom_cos_Fashionfox
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_bottom_cos_fashionfox_N.png
+map_Kd male_bottom_cos_fashionfox_C.png
+map_d male_bottom_cos_fashionfox_C.png
+
+newmtl male_bottom_fur_cos_Fashionfox
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_bottom_cos_fashionfox_d.png
+map_Ks male_bottom_cos_fashionfox_s.png
+map_d male_bottom_cos_fashionfox_d.png
+
+newmtl male_hair_cos_Fashionfox
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd male_hair_cos_holographic_red_d.png
+map_Ks male_hair_cos_holographic_s.png
+map_d male_hair_cos_holographic_red_d.png
+
+newmtl male_hat_cos_Fashionfox
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_accessory_cos_fashionfox_N.png
+map_Kd male_accessory_cos_fashionfox_C.png
+map_d male_accessory_cos_fashionfox_C.png
+
+newmtl male_head_cos_Fashionfox
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_head_SC_Samurai_n.png
+map_Kd male_head_SC_Samurai_d.png
+map_Ks male_head_SC_Samurai_s.png
+map_d male_head_SC_Samurai_d.png
+
+newmtl male_shoe_cos_Fashionfox
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_shoe_cos_fashionfox_N.png
+map_Kd male_shoe_cos_fashionfox_C.png
+map_d male_shoe_cos_fashionfox_C.png
+
+newmtl male_top_cos_Fashionfox
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_top_cos_fashionfox_N.png
+map_Kd male_top_cos_fashionfox_C.png
+map_d male_top_cos_fashionfox_C.png

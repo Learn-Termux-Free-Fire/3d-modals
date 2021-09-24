@@ -1,0 +1,99 @@
+# Blender MTL File: 'New 04.blend'
+# Material Count: 7
+
+newmtl Male_Body_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_body_N.png
+map_Kd Male_Body_Cos_Warringstates_D.png
+map_Ks male_body_S.png
+map_d Male_Body_Cos_Warringstates_D.png
+
+newmtl Male_Bottom_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Bottom_Cos_Warringstates_N.png
+map_Kd Male_Bottom_Cos_Warringstates_D.png
+map_Ks Male_Bottom_Cos_Warringstates_S.png
+map_d Male_Bottom_Cos_Warringstates_D.png
+
+newmtl Male_Hair_Cos_Warringstates
+Ns 0.703124
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd female_hair_cos_BJD_d.png
+map_Ks female_hair_cos_BJD_s.png
+map_d female_hair_cos_BJD_d.png
+
+newmtl Male_Hat_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Hat_Cos_Warringstates_N.png
+map_Kd Male_Hat_Cos_Warringstates_D.png
+map_Ks Male_Hat_Cos_Warringstates_S.png
+map_d Male_Hat_Cos_Warringstates_D.png
+
+newmtl Male_Head_Sc_Hayato_Awakening_D
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump male_head_SC_Samurai_n.png
+map_Kd Male_Head_Sc_Hayato_Awakening_D.png
+map_Ks male_head_SC_Samurai_s.png
+map_d Male_Head_Sc_Hayato_Awakening_D.png
+
+newmtl Male_Shoe_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Shoe_Cos_Warringstates_N.png
+map_Kd Male_Shoe_Cos_Warringstates_D.png
+map_Ks Male_Shoe_Cos_Warringstates_S.png
+map_d Male_Shoe_Cos_Warringstates_D.png
+
+newmtl Male_Top_Cos_Warringstates
+Ns 179.999996
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump Male_Top_Cos_Warringstates_N.png
+map_Kd Male_Top_Cos_Warringstates_D.png
+map_Ks Male_Top_Cos_Warringstates_S.png
+map_d Male_Top_Cos_Warringstates_D.png
